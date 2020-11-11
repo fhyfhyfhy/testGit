@@ -4,3 +4,9 @@ Git has a mutable index called stage.
 Creating a new branch is quick and simple.
 
 test git 2020-11-11
+
+add a line 111111
+
+test commit ammend
+
+test commit amend
